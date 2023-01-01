@@ -1,3 +1,12 @@
+/*
+#########################################################
+Author:			Markus Begerow
+Created on:		01.03.2022
+Description:	Sending E-Mails without SQL Agent
+Version:		1.0.0
+#########################################################
+*/
+
 -- show advanced options
 EXEC sp_configure 'show advanced options', 1
 GO
