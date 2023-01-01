@@ -1,3 +1,13 @@
+/*
+#########################################################
+Author:			Markus Begerow
+Created on:		01.09.2022
+Description:	Calling Rest cmd from persisted Powershell in DB
+Version:		1.0.0
+#########################################################
+*/
+
+
 CREATE TABLE [dbo].[REST_via_PowerShell_with_Params_from_Database_TBL](
 	[Id] int NOT NULL,
 	[Command] [nvarchar](max) NULL)
