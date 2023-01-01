@@ -1,3 +1,12 @@
+<#
+#########################################################
+Author:			Markus Begerow
+Created on:		01.09.2022
+Description:	Handling Gridscale VM via T-SQL & PowerShell
+Version:		1.0.0
+#########################################################
+#>
+
 param (
 $MyUrl,
 $XAuthUserId,
