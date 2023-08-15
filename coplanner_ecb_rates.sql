@@ -2,7 +2,7 @@
 #########################################################
 Author:			Markus Begerow
 Created on:		01.03.2022
-Description:	Import ECB rates into CoPlanner
+Description:	Import ECB rates into SQL Server
 Version:		1.0.0
 #########################################################
 */
